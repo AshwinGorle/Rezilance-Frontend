@@ -38,7 +38,7 @@ export const Title = ({
               style={{
                 fontSize: "30px",
                 marginBottom: "25px",
-                marginLeft: "12px",
+                // marginLeft: "12px",
                 color: "#fff",
                 fontWeight: 700,
               }}
