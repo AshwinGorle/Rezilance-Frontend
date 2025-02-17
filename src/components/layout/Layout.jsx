@@ -61,9 +61,9 @@ const LayoutComponent = ({ children }) => {
                 overflowY: "auto",
                 scrollbarWidth: "none",
                 scrollbarColor: "unset",
-                display: "flex",
-                justifyContent: "center",
-                alignItems: "center",
+                // display: "flex",
+                // justifyContent: "center",
+                // alignItems: "center",
               }}
             >
               {children}
